@@ -1,1 +1,1 @@
-# Adversarial-Detection-with-SAT-layer
+# Adversarial Detection with SAT layer
